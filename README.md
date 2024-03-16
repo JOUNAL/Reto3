@@ -195,8 +195,7 @@ print(Rectangulo3.compute_area())
 ```
 
 
-### Componentes del Ciclo `while`
-- Condición de parada: Evalúa si el bloque de instrucciones debe ejecutarse.
-- Bloque de instrucciones: Conjunto de instrucciones que se ejecutan mientras la condición sea verdadera.
-- Actualización: Modificación de variables para que eventualmente la condición de parada sea falsa y termine el ciclo.
+# Restaurante
+
+![image](https://github.com/JOUNAL/Reto3/blob/main/Reto_3/Diagrama2.png)
 
