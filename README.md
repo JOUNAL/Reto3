@@ -208,5 +208,5 @@ Empezamos con la clase orden, que se compone de items del menu; en esta clase se
 La siguiente clase, los items del menu, que se compodria de nombre, precio y cantidad, y que puede calcular el sub_total, que seria la cantidad del item por el precio del item
 
 Y luego estan las subclases qye heredan de items del menu, que serian las categorias que podria a llegar un menu, y que cada una tiene sus caracteristicas propias
-![image](https://github.com/JOUNAL/Reto3/blob/main/Reto_3/Diagrama2.png)
+![image]
 
