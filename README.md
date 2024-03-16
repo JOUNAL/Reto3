@@ -197,5 +197,16 @@ print(Rectangulo3.compute_area())
 
 # Restaurante
 
+Ahora nos encontramos en una situacion de un restaurante donde debemos calcular la cuenta de la orden de un cliente
+
+### Diagrama de clases
+
+Antes de empezar a programar debemos plantear como seria la estructura de lo que vamos a programar y como se relacionan las clases entre ellas, asi obtenemos el siguiente diagrama de clases
+
+Empezamos con la clase orden, que se compone de items del menu; en esta clase se pueden, añadir items, calcular el total de la cuenta y mostrar la cuenta
+
+La siguiente clase, los items del menu, que se compodria de nombre, precio y cantidad, y que puede calcular el sub_total, que seria la cantidad del item por el precio del item
+
+Y luego estan las subclases qye heredan de items del menu, que serian las categorias que podria a llegar un menu, y que cada una tiene sus caracteristicas propias
 ![image](https://github.com/JOUNAL/Reto3/blob/main/Reto_3/Diagrama2.png)
 
